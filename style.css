@@ -472,15 +472,14 @@ textarea {
 }
 
 .video-2 {
-    width: 50%;
+    width: 55%;
     display: flex;
 }
 
 .v1 {
     align-items: center;
-    width: 800px;
-    height: max-content;
-    margin-right: 100px;
+    width: 100%;
+    height: 100%;
     border-radius: 10px;
 }
 
