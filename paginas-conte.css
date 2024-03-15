@@ -1,0 +1,303 @@
+.paginas-contenido {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 70px;
+}
+.tour-container {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 70px;
+}
+.pagina-text h3 {
+    font-family:"Bebas Neue", sans-serif;
+    font-size: 40px;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.pagina-text p {
+    color: #E1E1E1;
+}
+
+.tour-text h3 {
+    font-family:"Bebas Neue", sans-serif;
+    font-size: 40px;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.tour-text p {
+    color: #E1E1E1;
+}
+
+
+
+
+
+/*paginas del inicio*/
+.pagina1 {
+    background: linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)),
+        url(imagenes/izamal-F.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 350px;
+        width: 250px;
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 20px;
+}
+.pagina2 {
+    background: linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)),
+        url(imagenes/piramides-teotihuacan_0.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 350px;
+        width: 250px;
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 20px;
+}
+.pagina3 {
+    background: linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)),
+        url(imagenes/cenotesport.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 350px;
+        width: 250px;
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 20px;
+}
+
+
+/*contenido pueblos magico*/
+.tour-1 {
+    background: linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)),
+        url(imagenes/izamal-F.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 350px;
+        width: 250px;
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 20px;
+}
+.tour-2 {
+    background: linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)),
+        url(imagenes/Espita-port.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 350px;
+        width: 250px;
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 20px;
+}
+.tour-3 {
+    background: linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)),
+        url(imagenes/maní.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 350px;
+        width: 250px;
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 20px;
+}
+.tour-4 {
+    background: linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)),
+        url(imagenes/motul-F.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 350px;
+        width: 250px;
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 20px;
+}
+.tour-5 {
+    background: linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)),
+        url(https://topadventure.com/__export/1645366696688/sites/laverdad/img/2022/02/20/enamorate_del_bello_pueblo_magico_de_sisalx_yucatan_1.jpg_458425832.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 350px;
+        width: 250px;
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 20px;
+}
+.tour-6 {
+    background: linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)),
+        url(https://i1.wp.com/yucatantoday.com/wp-content/uploads/2019/09/Tekax-letras-iglesia-by-Oscar-Gongora-copy-2.jpg?fit=1280%2C853);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 350px;
+        width: 250px;
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 20px;
+}
+.tour-7 {
+    background: linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)),
+        url(https://allyouneedisamap.files.wordpress.com/2021/07/img_7767.jpg?w=1400);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 350px;
+        width: 250px;
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 20px;
+}
+
+
+/*contenido zonas arqueologicas*/
+
+.zona-1 {
+    background: linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)),
+        url(https://www.mexikoo.com/wp-content/uploads/2019/04/AdobeStock_197925419-1-min.jpeg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 350px;
+        width: 250px;
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 20px;
+}
+.zona-2 {
+    background: linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)),
+        url(https://www.mexicodesconocido.com.mx/wp-content/uploads/2016/04/zonas-arqueologicas-mayas-yucatan-mayapan-900x360.jpeg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 350px;
+        width: 250px;
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 20px;
+}
+.zona-3 {
+    background: linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)),
+        url(https://www.mexicodesconocido.com.mx/wp-content/uploads/2016/04/zonas-arqueologicas-en-yucatan-dzibilchaltun-depositphotos-900x358.png);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 350px;
+        width: 250px;
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 20px;
+}
+.zona-4 {
+    background: linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)),
+        url(https://www.ourescapeclause.com/wp-content/uploads/2020/02/MexicoEkBalam-56-1170x789.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 350px;
+        width: 250px;
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 20px;
+}
+
+
+/* contenido cenotes*/
+
+.cenote-1 {
+    background: linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)),
+        url(https://www.myfreerangefamily.com/wp-content/uploads/2023/03/Xcanahaltun-Cenote-Valladolid-Best-5.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 350px;
+        width: 250px;
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 20px;
+}
+.cenote-2 {
+    background: linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)),
+        url(https://secureservercdn.net/198.71.233.110/19d.26c.myftpupload.com/wp-content/uploads/2022/08/no-es-una-pelicula-asi-es-por-dentro-el-irreal-y-descomunal-cenote-choj-ha-en-yucatan.jpeg?time=1662149168);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 350px;
+        width: 250px;
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 20px;
+}
+.cenote-3 {
+    background: linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)),
+        url(https://www.thewholeworldisaplayground.com/wp-content/uploads/2020/02/Cenote-Choo-Ha-Coba.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 350px;
+        width: 250px;
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 20px;
+}
+.cenote-4 {
+    background: linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)),
+        url(https://www.yucatandivecenter.com/wp-content/uploads/2021/03/cenote-kankirixche-3.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 350px;
+        width: 250px;
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 20px;
+}
+
